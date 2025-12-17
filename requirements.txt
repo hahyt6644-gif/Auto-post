@@ -1,2 +1,3 @@
-telethon==1.36.0
-aiohttp==3.9.5
+telethon
+tgcrypto
+flask
