@@ -44,6 +44,7 @@ TERABOX_REGEX = re.compile(
     r"1024terabox\.com|"
     r"teraboxapp\.com|"
     r"terasharefile\.com|"
+    r"teraboxurl\.com|"
     r"terabox\.link|"
     r"teraboxapp\.link"
     r")(?:/[^\s]+)?",
