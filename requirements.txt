@@ -1,3 +1,5 @@
-telethon
-tgcrypto
 flask
+python-telegram-bot
+telethon
+cryptg
+httpx
